@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Williams Orellana</title>
+    <link>williamsorellana.cf/es/categories/</link>
+    <description>Recent content in Categories on Williams Orellana</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; Derechos Reservados 2018</copyright>
+    
+	<atom:link href="williamsorellana.cf/es/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Desarrollo</title>
+      <link>williamsorellana.cf/es/categories/desarrollo/</link>
+      <pubDate>Wed, 01 Nov 2017 20:29:37 -0600</pubDate>
+      
+      <guid>williamsorellana.cf/es/categories/desarrollo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development</title>
+      <link>williamsorellana.cf/es/categories/development/</link>
+      <pubDate>Thu, 15 Feb 2018 07:24:57 -0600</pubDate>
+      
+      <guid>williamsorellana.cf/es/categories/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal</title>
+      <link>williamsorellana.cf/es/categories/personal/</link>
+      <pubDate>Thu, 15 Feb 2018 07:24:57 -0600</pubDate>
+      
+      <guid>williamsorellana.cf/es/categories/personal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
