@@ -1,0 +1,18 @@
+{{ $related := .Site.RegularPages.Related . | first 6 }}
+{{ with $related }}
+<section class="p-related">
+  <h4>{{ i18n "see_also"}}</h4>
+  <ul id="slider" class="p-related__list">
+    {{ range . }}
+    <li class="p-related__item js-related__item">
+      <a href="{{ .RelPermalink }}"
+        {{ with .Params.thumbnail }}
+          style="background-image: url({{ $.Site.BaseURL }}{{ . }});"
+        {{ end }}>
+        <span>{{ .Title }}</span>
+      </a>
+    </li>
+    {{ end }}
+  </ul>
+</section>
+{{ end }}

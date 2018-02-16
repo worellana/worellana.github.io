@@ -1,0 +1,12 @@
+{{ if .IsTranslated }}
+<div style="display: inline-flex;">
+<h4>{{ i18n "translations" }}</h4>
+<ul class="translations">
+    {{ range .Translations }}
+    <li>
+        <a href="{{ .Permalink }}" alt="{{ .Title }}"><p class="{{ .Lang }}">&nbsp;</p></a>
+    </li>
+    {{ end}}
+</ul>
+</div>
+{{ end }}
