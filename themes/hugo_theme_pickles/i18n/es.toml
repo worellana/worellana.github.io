@@ -12,3 +12,9 @@ other = "Hecho con"
 
 [in]
 other = "en"
+
+[page]
+other = "Página"
+
+[of]
+other = "de"

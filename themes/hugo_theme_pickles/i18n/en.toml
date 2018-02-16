@@ -12,3 +12,9 @@ other = "Made with"
 
 [in]
 other = "in"
+
+[page]
+other = "Page"
+
+[of]
+other = "of"
