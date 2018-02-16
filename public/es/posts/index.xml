@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Williams Orellana</title>
+    <link>williamsorellana.cf/es/posts/</link>
+    <description>Recent content in Posts on Williams Orellana</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; Derechos Reservados 2018</copyright>
+    <lastBuildDate>Thu, 15 Feb 2018 07:24:57 -0600</lastBuildDate>
+    
+	<atom:link href="williamsorellana.cf/es/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nuevo tema</title>
+      <link>williamsorellana.cf/es/posts/hola-mundo/</link>
+      <pubDate>Thu, 15 Feb 2018 07:24:57 -0600</pubDate>
+      
+      <guid>williamsorellana.cf/es/posts/hola-mundo/</guid>
+      <description>Hacía tiempo que no me sentaba a escribir, así que esta vez no solo quise hacerlo, sino que también quise darle un nuevo look al blog.
+Con esta idea en mente, me propuse a buscar un tema minimalista (tal como me gustan) y personalizarlo un poco para que se adapte a lo que estaba buscando, la verdad es que el resultado final me gusta mucho y no podría estar más complacido con él.</description>
+    </item>
+    
+    <item>
+      <title>Un nuevo inicio</title>
+      <link>williamsorellana.cf/es/posts/un-nuevo-inicio/</link>
+      <pubDate>Wed, 01 Nov 2017 20:29:37 -0600</pubDate>
+      
+      <guid>williamsorellana.cf/es/posts/un-nuevo-inicio/</guid>
+      <description>La verdad no recuerdo con exactitud cuántas veces he iniciado la tarea de escribir un blog (pero han sido más de las que quisiera), y es que siempre termino dejándolo en el olvido ya sea porque no tengo mucho tiempo para escribir o por que no se me ocurren muchos temas de los cuales escribir.
+Así que este día me he dado a la tarea de iniciar nuevamente, no porque tenga más tiempo para escribir, más bien lo hago como una bitácora personal donde pueda plasmar mis pensamientos y mis experiencias en el ámbito laboral y personal.</description>
+    </item>
+    
+  </channel>
+</rss>

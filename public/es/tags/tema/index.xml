@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tema on Williams Orellana</title>
+    <link>williamsorellana.cf/es/tags/tema/</link>
+    <description>Recent content in Tema on Williams Orellana</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; Derechos Reservados 2018</copyright>
+    <lastBuildDate>Thu, 15 Feb 2018 07:24:57 -0600</lastBuildDate>
+    
+	<atom:link href="williamsorellana.cf/es/tags/tema/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nuevo tema</title>
+      <link>williamsorellana.cf/es/posts/hola-mundo/</link>
+      <pubDate>Thu, 15 Feb 2018 07:24:57 -0600</pubDate>
+      
+      <guid>williamsorellana.cf/es/posts/hola-mundo/</guid>
+      <description>Hacía tiempo que no me sentaba a escribir, así que esta vez no solo quise hacerlo, sino que también quise darle un nuevo look al blog.
+Con esta idea en mente, me propuse a buscar un tema minimalista (tal como me gustan) y personalizarlo un poco para que se adapte a lo que estaba buscando, la verdad es que el resultado final me gusta mucho y no podría estar más complacido con él.</description>
+    </item>
+    
+  </channel>
+</rss>

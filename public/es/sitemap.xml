@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>williamsorellana.cf/es/acerca/</loc>
+    <lastmod>2018-02-15T16:16:01-06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="williamsorellana.cf/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="williamsorellana.cf/es/acerca/"
+                />
+  </url>
+  
+  <url>
+    <loc>williamsorellana.cf/es/posts/hola-mundo/</loc>
+    <lastmod>2018-02-15T07:24:57-06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="williamsorellana.cf/posts/new-theme/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="williamsorellana.cf/es/posts/hola-mundo/"
+                />
+  </url>
+  
+  <url>
+    <loc>williamsorellana.cf/es/posts/un-nuevo-inicio/</loc>
+    <lastmod>2017-11-01T20:29:37-06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="williamsorellana.cf/posts/a-new-beginning/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="williamsorellana.cf/es/posts/un-nuevo-inicio/"
+                />
+  </url>
+  
+  <url>
+    <loc>williamsorellana.cf/es/tags/blog/</loc>
+    <lastmod>2018-02-15T07:24:57-06:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="williamsorellana.cf/tags/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="williamsorellana.cf/es/tags/blog/"
+                />
+  </url>
+  
+  <url>
+    <loc>williamsorellana.cf/es/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="williamsorellana.cf/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="williamsorellana.cf/es/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>williamsorellana.cf/es/categories/desarrollo/</loc>
+    <lastmod>2017-11-01T20:29:37-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>williamsorellana.cf/es/categories/development/</loc>
+    <lastmod>2018-02-15T07:24:57-06:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="williamsorellana.cf/categories/development/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="williamsorellana.cf/es/categories/development/"
+                />
+  </url>
+  
+  <url>
+    <loc>williamsorellana.cf/es/tags/dise%C3%B1o/</loc>
+    <lastmod>2018-02-15T07:24:57-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>williamsorellana.cf/es/tags/inicio/</loc>
+    <lastmod>2017-11-01T20:29:37-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>williamsorellana.cf/es/categories/personal/</loc>
+    <lastmod>2018-02-15T07:24:57-06:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="williamsorellana.cf/categories/personal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="williamsorellana.cf/es/categories/personal/"
+                />
+  </url>
+  
+  <url>
+    <loc>williamsorellana.cf/es/posts/</loc>
+    <lastmod>2018-02-15T07:24:57-06:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="williamsorellana.cf/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="williamsorellana.cf/es/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>williamsorellana.cf/es/tags/</loc>
+    <lastmod>2018-02-15T07:24:57-06:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="williamsorellana.cf/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="williamsorellana.cf/es/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>williamsorellana.cf/es/tags/tema/</loc>
+    <lastmod>2018-02-15T07:24:57-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>williamsorellana.cf/es/</loc>
+    <lastmod>2018-02-15T16:16:01-06:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="williamsorellana.cf/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="williamsorellana.cf/es/"
+                />
+  </url>
+  
+</urlset>
