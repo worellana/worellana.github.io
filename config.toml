@@ -1,4 +1,4 @@
-baseurl = "https://worellana.gitlab.io/"
+baseurl = "https://williamsorellana.cf/"
 theme = "hugo_theme_pickles"
 DefaultContentLanguage = "en"
 pygmentStyle = "native"
