@@ -16,7 +16,7 @@ weight = 2
 Title = "Williams Orellana"
 
 copyright = "&copy; Derechos Reservados 2018"
-bio = "Desarrollador de software, pasiado de la tecnologia, el software libre, Python, Debian y Blender."
+bio = "Desarrollador de software, apasionado de la tecnología, el software libre, Python, Debian y Blender."
 translations = "Traducciones"
 
 [[languages.en.menu.main]]
