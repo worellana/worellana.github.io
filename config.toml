@@ -45,7 +45,7 @@ translations = "Traducciones"
   twitter = "worellana"
   #facebook = "Your Facebook username"
   instagram = "williamsorellana"
-  googleplus = "https://plus.google.com/+WilliamsOrellana" # https://plus.google.com/u/0/xxxxxx
+  #googleplus = "https://plus.google.com/+WilliamsOrellana" # https://plus.google.com/u/0/xxxxxx
   github = "worellana"
   gitlab = "worellana"
   #npm = "Your npm username"
@@ -96,7 +96,7 @@ translations = "Traducciones"
   [[related.indices]]
   name  = "date"
   weight = 10
-  pattern = "2018"
+  pattern = "2019"
 
 [taxonomies]
    tag = "tags"
