@@ -11,6 +11,7 @@ copyright = "&copy; Copyright 2019"
 bio = "Software developer, passionate about Technology, Free Software, Python, Debian and Blender."
 translations = "Translations"
 languageName = "English"
+baseurl = "https://williamsorellana.cf/"
 
 [languages.es]
 weight = 2
@@ -20,6 +21,7 @@ copyright = "&copy; Derechos Reservados 2019"
 bio = "Desarrollador de software, apasionado de la tecnología, el software libre, Python, Debian y Blender."
 translations = "Traducciones"
 languageName = "Español"
+baseurl = "https://williamsorellana.cf/es/"
 
 [[languages.en.menu.main]]
     name = "Blog"
