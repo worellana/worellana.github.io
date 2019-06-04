@@ -107,3 +107,6 @@ baseurl = "https://williamsorellana.cf/es/"
 [taxonomies]
    tag = "tags"
    category = "categories"
+
+[permalinks]
+   posts = "/:year/:month/:title/"
