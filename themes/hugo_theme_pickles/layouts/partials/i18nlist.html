@@ -4,7 +4,9 @@
 <ul class="translations">
     {{ range .Translations }}
     <li>
-        <a href="{{ .Permalink }}" alt="{{ .Title }}"><p class="{{ .Lang }}">&nbsp;</p></a>
+        <a href="{{ .Permalink }}" alt="{{ .Title }}">
+                <div title="{{ .Language.LanguageName }}">
+                <p class="{{ .Lang }}" >&nbsp;</p></div></a>
     </li>
     {{ end}}
 </ul>
