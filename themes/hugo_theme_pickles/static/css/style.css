@@ -4,17 +4,41 @@ p#madeinsv{
     background-repeat: no-repeat;
     background-position: right;
     background-size: 32px 32px;
-    padding-right:40px;
-    display:inline-block;
+    padding-right:24px;
+    /*display:inline-block;*/
     padding-bottom: 6px;
-    margin-top:  -25px;
-    font-size: 1.2em;
+    margin-top:  -7px;
+    text-align: center;
+    vertical-align: middle;
+    height: 50px;
+    line-height: 50px;
+    /*font-size: 1.2em;
+    float: right;*/
   }.copyright {
-    display: block;
+    /*display: block;
     margin-top: 20px;
     text-align: center;
-    padding: 0 0 24px;
+    padding: 0 0 24px;*/
+    margin-top: 20px;
+    width: 140px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: auto;
+    overflow: hidden;
   }
+
+  #madeintext{
+    float: left;
+    padding-bottom: 6px;
+    margin-top: -25px;
+    font-size: 1.2em;
+    text-align: center;
+    width: 110px;
+    height: 50px;
+    line-height: 75px;
+    vertical-align: middle;
+  }
+
   .love {
     display: inline-block;
     position: relative;
