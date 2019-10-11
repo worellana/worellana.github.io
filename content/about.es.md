@@ -5,7 +5,7 @@ slug: "acerca"
 type: static
 ---
 
-Mi nombre es Williams Orellana, Vivo en [El Salvador](https://es.wikipedia.org/wiki/El_Salvador "El Salvador"). Soy desarrollador de Software desde hace 10 años, en mi carrera he desarrollado software para escritorio y en los últimos años he trabajado con tecnologías web, mis inicios en la programación fue con [Visual Basic 6.0](https://es.wikipedia.org/wiki/Visual_Basic "Visual Basic 6.0"), pasando por Visual Fox Pro, recientemente mi lenguaje de programación para escritorio es C#, en tecnologías web he tenido experiencia con PHP y Codeigniter, HTML5, CSS3 y Javascript.
+Mi nombre es Williams Orellana, Vivo en [El Salvador](https://es.wikipedia.org/wiki/El_Salvador "El Salvador"). Soy desarrollador de Software desde hace 10 años, en mi carrera he desarrollado software para escritorio y en los últimos años he trabajado con tecnologías web, mis inicios en la programación fue con [Visual Basic 6.0](https://es.wikipedia.org/wiki/Visual_Basic "Visual Basic 6.0"), pasando por [Visual FoxPro](https://es.wikipedia.org/wiki/Visual_FoxPro "Visual FoxPro"), recientemente mi lenguaje de programación para escritorio es C#, en tecnologías web he tenido experiencia con PHP y Codeigniter, HTML5, CSS3 y Javascript.
 
 Cuando no estoy leyendo sobre programación, me gusta aprender sobre diseño (Inkscape, GIMP, Blender), aficionado a la fotografía, Software Libre, Futbol entre otros.
 
