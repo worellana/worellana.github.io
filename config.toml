@@ -108,4 +108,5 @@ languageName = "Español"
    category = "categories"
 
 [permalinks]
-   posts = "/:year/:month/:title/"
+#   posts = "/:year/:month/:title/"
+    posts = "/blog/:title/"
