@@ -92,3 +92,37 @@ p#madeinsv{
     width: 728px;
     height: 90px;
   }
+
+  .center-cropped {
+    width: 100%;
+    height: 200px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    margin-top: 24px;
+    position: relative;
+  }
+
+  .text-block {
+    position: absolute;
+    bottom: 5px;
+    right: 5px;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 50px;
+    width: auto;
+    font-size: smaller;
+    opacity: 0.5;
+    text-align: right;
+  }
+
+  .text-block a:link, .text-block a:visited{
+      color: #fff;
+  }
+
+  .text-block p{
+    line-height: 1em;
+    opacity: 1;
+    text-shadow: 2px 2px #CE0000;
+  }

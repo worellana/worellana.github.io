@@ -16,7 +16,13 @@
     </div>
   </header>
   {{ with .Params.thumbnail }}
-    <img src="{{ . }}" alt="thumbnail" class="p-article__thumbnail">
+    <div class="center-cropped"
+        style="background-image: url('{{ . }});">
+        <div class="text-block">
+            <p><a href="{{ printf "%s" $.Params.thumbnail_url }}" target="_blank"><strong>{{ printf "%s" $.Params.thumbnail_text }}</strong></a>
+          </div>
+    </div>
+
   {{ end }}
   <section id="js-article" class="p-article__body">
     {{ .Content }}

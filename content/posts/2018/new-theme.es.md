@@ -4,6 +4,9 @@ date: 2018-02-15T07:24:57-06:00
 slug: "hola-mundo"
 categories: [personal, development]
 tags: [blog,tema, diseño]
+thumbnail: https://images.pexels.com/photos/5933/color-paint-palette-wall-painting.jpg?auto=compress&cs=tinysrgb&h=750&w=1260
+thumbnail_text: "Foto de Kaboompics .com en Pexels"
+thumbnail_url: "https://www.pexels.com/es-es/foto/boligrafos-bolis-branding-diseno-6444/"
 ---
 
 Hacía tiempo que no me sentaba a escribir, así que esta vez no solo quise hacerlo, sino que también quise darle un nuevo **look** al blog.

@@ -3,6 +3,9 @@ title: "New theme"
 date: 2018-02-15T07:24:57-06:00
 categories: [personal, development]
 tags: [blog,theme,design]
+thumbnail: https://images.pexels.com/photos/5933/color-paint-palette-wall-painting.jpg?auto=compress&cs=tinysrgb&h=750&w=1260
+thumbnail_text: "Photo by Kaboompics .com on Pexels"
+thumbnail_url: "https://www.pexels.com/es-es/foto/boligrafos-bolis-branding-diseno-6444/"
 ---
 
 It's been a long time since the last post, but now I want to write, but not just that, I want to change the **look** on the blog.
