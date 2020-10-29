@@ -62,11 +62,11 @@ languageName = "Español"
   #youtube = "Your YouTube username"
   linkedin = "williamsorellana"
   # Disqus shortname
-  disqus = "williamsorellana"
+  disqus = "worellana"
   # Google Analytics API key.
   ga_api_key = "UA-84522060-1"
   author = "Williams Orellana"
-  authorwebsite = "williamsorellana.cf"
+  authorwebsite = "williamsorellana.rocks"
   avatar = "https://es.gravatar.com/userimage/1565874/bc9b2b643022f10225def6a0873d5478.jpg?size=200"
 #  contact = "/contact"
 #  bio = "Software developer, passionate about Technology, Free Software, Python, Debian and Blender."
