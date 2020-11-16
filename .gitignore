@@ -1,2 +1,4 @@
 /public
 .vscode
+/themes/timer-hugo
+config-timer.toml
