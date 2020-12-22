@@ -126,3 +126,37 @@ p#madeinsv{
     opacity: 1;
     text-shadow: 2px 2px #CE0000;
   }
+
+  @media (prefers-color-scheme: dark){
+    body{
+      background-color: #212121;
+      color: #FFF;
+    }
+
+    .p-title__link {
+        color: #fff;
+    }
+
+    .c-article__title a {
+        color: #fff;
+    }
+
+    img {
+        opacity: .75;
+        transition: opacity .5s ease-in-out;
+      }
+      img:hover {
+        opacity: 1;
+      }
+  }
+  
+  @media (prefers-color-scheme: light){
+    body{
+      background-color: #FFF;
+      color: #212121;
+    }
+  }
+
+
+
+    
