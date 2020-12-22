@@ -71,7 +71,7 @@ languageName = "Español"
 #  contact = "/contact"
 #  bio = "Software developer, passionate about Technology, Free Software, Python, Debian and Blender."
   # Short subtitle/tagline. This is displayed in the header.
-  subtitle = "~/worellana/home"
+  subtitle = "~/home/worellana"
   # Logo image. This is displayed ogp image.
   logo = "/path/to/logo"
   favicon = "favicon.ico"
