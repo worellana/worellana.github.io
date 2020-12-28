@@ -16,7 +16,6 @@ languageName = "English"
 [languages.es]
 weight = 2
 Title = "Williams Orellana"
-
 copyright = "&copy; Derechos Reservados 2020"
 bio = "Introvertido y en ocaciones asocial, apasionado por la tecnología, Fotógrafo amateur, amante de las mascotas, viviendo la vida a prueba y error."
 translations = "Traducciones"
@@ -69,7 +68,6 @@ languageName = "Español"
   authorwebsite = "williamsorellana.rocks"
   avatar = "https://es.gravatar.com/userimage/1565874/bc9b2b643022f10225def6a0873d5478.jpg?size=200"
 #  contact = "/contact"
-#  bio = "Software developer, passionate about Technology, Free Software, Python, Debian and Blender."
   # Short subtitle/tagline. This is displayed in the header.
   subtitle = "~/home/worellana"
   # Logo image. This is displayed ogp image.
