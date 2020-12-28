@@ -13,6 +13,6 @@ One more year passed, many things changed since the last time I wrote, this year
 
 The whole universe is constantly changing, so it is not strange that life itself changes from one day to the next, the best we can do is adapt to change and not cling to that life will never change, we have to let life flow, things better will come, you just have to give time to time.
 
-This time I will not promise to update the blog more often, from the beginning I thought of it as a vitacora of my experiences and experiences, and I intend to keep it that way, I will write whenever I feel the need to do so, until then ...
+This time I will not promise to update the blog more often, from the beginning I thought of it as a vitacora of my experiences, and I intend to keep it that way, I will write whenever I feel the need to do so, until then ...
 
 Cheers!!
