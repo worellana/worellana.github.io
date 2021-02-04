@@ -15,4 +15,4 @@ The whole universe is constantly changing, so it is not strange that life itself
 
 This time I will not promise to update the blog more often, from the beginning I thought of it as a vitacora of my experiences, and I intend to keep it that way, I will write whenever I feel the need to do so, until then ...
 
-Cheers!!
+Cheers!!!

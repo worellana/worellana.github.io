@@ -11,8 +11,8 @@ thumbnail_url: "https://www.pexels.com/photo/green-leafy-plant-starting-to-grow-
 
 Un año mas pasó, muchas cosas cambiaron desde la ultima vez que escribí, este año fue muy anormal a lo que estábamos acostumbrados, pero ciertamente en lo personal me ha dado grandes lecciones de vida, mi vida no solo cambio a causa de la pandemia, muchas personas que conocí ya no están mas con nosotros pero ademas de eso han sucedido grandes cambios, al final creo y espero que esos cambios han sido para mejorar, no soy la misma persona del año pasado he crecido con las lecciones de este año y eso es bueno, ahora veo la vida desde otra perspectiva.
 
-Todo el universo cambia constantemente, así que no es extraño que la vida misma cambie de un día para otro, lo mejor que podemos hacer es adaptarnos al cambio y no aferrarnos a que la vida nunca cambiara, tenemos que dejar que la vida fluya, cosas mejores vendrían, solo hay que darle tiempo al tiempo.
+Todo el universo cambia constantemente, así que no es extraño que la vida misma cambie de un día para otro, lo mejor que podemos hacer es adaptarnos al cambio y no aferrarnos a que la vida nunca cambiara, tenemos que dejar que la vida fluya, cosas mejores vendrán, solo hay que darle tiempo al tiempo.
 
 Esta vez no prometeré actualizar mas seguido el blog, desde un inicio lo pensé como una bitácora de mis vivencias y experiencias, y así lo pienso mantener, escribiré siempre que sienta la necesidad de hacerlo, hasta entonces...
 
-Saludos!!
+¡¡Saludos!!
