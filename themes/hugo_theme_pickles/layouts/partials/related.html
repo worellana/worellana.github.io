@@ -5,12 +5,18 @@
   <ul id="slider" class="p-related__list">
     {{ range . }}
     <li class="p-related__item js-related__item">
-      <a href="{{ .RelPermalink }}"
+      <!--<a href="{{ .RelPermalink }}"
         {{ with .Params.thumbnail }}
           style="background-image: url({{ $.Site.BaseURL }}{{ . }});"
         {{ end }}>
         <span>{{ .Title }}</span>
-      </a>
+      </a>-->
+      <a href="{{ .RelPermalink }}"
+        {{ with .Params.thumbnail }}
+          style="background-image: url({{ . }});"
+        {{ end }}>
+        <span>{{ .Title }}</span>
+      </a>-->
     </li>
     {{ end }}
   </ul>
