@@ -1,6 +1,7 @@
 baseurl = "https://williamsorellana.rocks/"
 theme = "hugo_theme_pickles"
 DefaultContentLanguage = "en"
+pygmentsCodeFences = true
 pygmentStyle = "native"
 canonifyURLs = true
 
