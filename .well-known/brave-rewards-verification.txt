@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: williamsorellana.rocks
+Token: 7d5134fd375d47a27dbcfbe9df311bddec12608e722870521e229abe73d85658
