@@ -2,6 +2,7 @@
 title: "Work"
 date: 2021-12-01T07:24:57-06:00
 slug: "work"
+draft: true
 categories: [personal, life, work]
 tags: [blog, life, personal, work]
 thumbnail: https://images.pexels.com/photos/10347152/pexels-photo-10347152.jpeg?auto=compress&cs=tinysrgb&dpr=2h=240&w=920
