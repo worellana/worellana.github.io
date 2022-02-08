@@ -1,6 +1,6 @@
 ---
 title: "Un paso mas cerca"
-date: 2022-02-008T07:24:57-06:00
+date: 2022-02-08T07:24:57-06:00
 slug: "one-step-closer"
 categories: [personal, life, work]
 tags: [blog, life, personal, work]
