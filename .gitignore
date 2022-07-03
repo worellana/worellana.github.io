@@ -3,3 +3,4 @@
 /themes/timer-hugo
 config-timer.toml
 .hugo_build.lock
+*.bk
