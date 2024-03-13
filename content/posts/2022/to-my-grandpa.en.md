@@ -16,3 +16,7 @@ I can say with certainty that the day of your funeral was one of the most diffic
 The truth is that I can only thank you for all the time we lived together, the good memories, the laughs, the advice that I keep in a very special place in me, _Thank you for so much grandpa_, you will be missed a lot here you can be sure of that, but I will always remember you and a smile will come to me.
 
 So long Grandpa.
+
+{{< alert "x-twitter" >}}
+Don't forget to [follow me](https://twitter.com/worellana) on X.
+{{< /alert >}}

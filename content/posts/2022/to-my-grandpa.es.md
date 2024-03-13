@@ -16,3 +16,7 @@ Puedo decir con certeza que el dia de tu entierro fue uno de los días mas difí
 La verdad es que solo me queda agradecer por todo el tiempo vivido juntos, los buenos recuerdos, las risas, los consejos que guardo en un lugar muy especial en mi, _Gracias por tanto abuelo_, se te extrañara mucho aquí puedes estar seguro de eso, pero siempre te recordare y una sonrisa vendrá a mi.
 
 Hasta siempre abuelo.
+
+{{< alert "x-twitter" >}}
+No olvides [seguirme](https://twitter.com/worellana) en X.
+{{< /alert >}}

@@ -1,24 +1,27 @@
 languageCode = "es"
 languageName = "Spanish"
-displayName = ":es:"
-isoCode = "es"
+languageDirection = "ltr"
+#displayName = ":es:"
+#isoCode = "es"
 weight = 2
-rtl = false
+#rtl = false
 
 title = "Williams Orellana"
-# logo = "img/logo.jpg"
-description = "~/home/worellana"
-copyright = "Hecho con :heart: en El Salvador, &copy; Derechos Reservados 2022"
 
-dateFormat = "2 January 2006"
+copyright = "Hecho con :heart: en El Salvador, &copy; Derechos Reservados 2024"
 
-[author]
+[params]
+   dateFormat = "2 January 2006"
+   description = "~/home/worellana"
+   #autor.name = "Williams Orellana"
+
+[params.author]
   name = "Williams Orellana"
   image = "img/Williams.jpg"
-  headline = "Otro desarrollador en internet"
-  bio = "Introvertido y en ocaciones asocial 🚶‍♂️, desarrollador de software 💻, apasionado por la tecnología 👨‍💻, Fotógrafo amateur 📷, amante de las mascotas 🐕, aún aprendiendo a vivir. :coffee:"
+  headline = "Solo otro desarrollador en Internet"
+  bio = "Introvertido y en ocaciones asocial 🚶‍♂️, Ingeniero de Software 💻, apasionado por la tecnología 👨‍💻, Entusiaste de la ciberseguridad 🐉, Software Libre 🐧, amante de las mascotas 🐕, aún aprendiendo a vivir. :coffee:"
   links = [
-  #   { email = "mailto:hello@your_domain.com" },
+   { email = "mailto:hi@williamsorellana.com" },
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
@@ -56,7 +59,7 @@ dateFormat = "2 January 2006"
   #   { tiktok = "https://tiktok.com/@username" },
   #   { tumblr = "https://username.tumblr.com" },
   #   { twitch = "https://twitch.tv/username" },
-     { twitter = "https://twitter.com/worellana" },
+     { x-twitter = "https://twitter.com/worellana" },
   #   { whatsapp = "https://wa.me/phone-number" },
   #   { youtube = "https://youtube.com/username" },
   ]

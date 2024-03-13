@@ -1,24 +1,26 @@
 languageCode = "en"
 languageName = "English"
-displayName = ":us:"
-isoCode = "en"
+languageDirection = "ltr"
 weight = 1
-rtl = false
 
 title = "Williams Orellana"
-# logo = "img/logo.jpg"
-description = "~/home/worellana"
-copyright = "Made with :heart: in El Salvador, &copy; Copyright 2022"
 
-dateFormat = "2 January 2006"
+copyright = "Made with :heart: in El Salvador, &copy; Copyright 2024"
 
-[author]
+[params]
+  dateFormat = "2 January 2006"
+  description = "~/home/worellana"
+  #autor.name = "Williams Orellana"
+  # mainSections = ["section1", "section2"]
+  # description = "My awesome website"
+
+[params.author]
   name = "Williams Orellana"
   image = "img/Williams.jpg"
   headline = "Just another developer on the internet"
-  bio = "Introverted and occasionally asocial 🚶‍♂️, software developer 💻, passionate about technology 👨‍💻, amateur photographer 📷, pet lover 🐕, still learning to live. :coffee:"
+  bio = "Introverted and occasionally asocial🚶, Software Engineer 💻, Passionate about technology 👨‍💻, InfoSec enthusiast 🐉, Open Source 🐧, Pet lover 🐕, Dreamer :coffee:"
   links = [
-  #   { email = "mailto:hello@your_domain.com" },
+    { email = "mailto:hi@williamsorellana.com" },
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
@@ -30,17 +32,19 @@ dateFormat = "2 January 2006"
   #   { facebook = "https://facebook.com/username" },
   #   { flickr = "https://www.flickr.com/photos/username/" },
   #   { foursquare = "https://foursquare.com/username" },
-     { github = "https://github.com/worellana" },
-     { gitlab = "https://gitlab.com/worellana" },
+    { github = "https://github.com/worellana" },
+    { gitlab = "https://gitlab.com/worellana" },
   #   { google = "https://www.google.com/" },
+  #   { google-scholar = "https://scholar.google.com/citations?user=user-id" },
   #   { hashnode = "https://username.hashnode.dev" },
-     { instagram = "https://instagram.com/williamsorellana" },
+    { instagram = "https://instagram.com/williamsorellana" },
   #   { keybase = "https://keybase.io/username" },
   #   { kickstarter = "https://www.kickstarter.com/profile/username" },
   #   { lastfm = "https://lastfm.com/user/username" },
-     { linkedin = "https://linkedin.com/in/williamsorellana" },
+    { linkedin = "https://linkedin.com/in/williamsorellana" },
   #   { mastodon = "https://mastodon.instance/@username" },
   #   { medium = "https://medium.com/username" },
+  #   { mendeley = "https://www.mendeley.com/" },
   #   { microsoft = "https://www.microsoft.com/" },
   #   { orcid = "https://orcid.org/userid" },
   #   { patreon = "https://www.patreon.com/username" },
@@ -52,11 +56,11 @@ dateFormat = "2 January 2006"
   #   { soundcloud = "https://soundcloud.com/username" },
   #   { stack-overflow = "https://stackoverflow.com/users/userid/username" },
   #   { steam = "https://steamcommunity.com/profiles/userid" },
-     { telegram = "https://t.me/worellana" },
+    { telegram = "https://t.me/worellana" },
   #   { tiktok = "https://tiktok.com/@username" },
   #   { tumblr = "https://username.tumblr.com" },
   #   { twitch = "https://twitch.tv/username" },
-     { twitter = "https://twitter.com/worellana" },
   #   { whatsapp = "https://wa.me/phone-number" },
+    { x-twitter = "https://twitter.com/worellana" },
   #   { youtube = "https://youtube.com/username" },
   ]
